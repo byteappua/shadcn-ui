@@ -222,7 +222,7 @@ export async function getProjectConfig(
   }
 
   const config: RawConfig = {
-    $schema: "https://ui.shadcn.com/schema.json",
+    $schema: "https://byteappua.github.io/shadcn-ui/schema.json",
     rsc: projectInfo.isRSC,
     tsx: projectInfo.isTsx,
     style: "new-york",
