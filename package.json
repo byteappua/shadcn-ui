@@ -22,7 +22,7 @@
     "dev": "turbo run dev --parallel",
     "cli:dev": "turbo --filter=shadcn-ui dev",
     "cli:start": "pnpm --filter=shadcn-ui start:dev",
-    "cli:build": "pnpm --filter=shadcn-ui build",
+    "cli:build": "pnpm --filter=byteapp-shadcn-ui build",
     "shadcn:dev": "turbo --filter=shadcn dev",
     "shadcn": "pnpm --filter=shadcn start:dev",
     "shadcn:build": "pnpm --filter=byteapp-shadcn build",
