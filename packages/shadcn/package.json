@@ -1,6 +1,6 @@
 {
-  "name": "byteappua-shadcn",
-  "version": "2.1.3",
+  "name": "byteapp-shadcn",
+  "version": "2.1.2",
   "description": "Add components to your apps.",
   "publishConfig": {
     "access": "public"
