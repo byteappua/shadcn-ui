@@ -1,5 +1,5 @@
 {
-  "name": "shadcn",
+  "name": "shadcn-ui",
   "version": "2.1.2",
   "description": "Add components to your apps.",
   "publishConfig": {
